@@ -6,7 +6,7 @@
 
 - 🔭 一名编程语言学习者
 - 🌱希望学习更多机器人和人工智能的知识
-- 📫如何联系我：qq
+- 📫如何联系我：qq1450153692
 
 ## My languages
 
@@ -15,4 +15,4 @@
     <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </p>
-![](https://raw.githubusercontent.com/Beiyu-kk/Beiyu-kk/output/github-contribution-grid-snake.svg)
+![亮色](https://raw.githubusercontent.com/Beiyu-kk/Beiyu-kk/output/github-contribution-grid-snake.svg)

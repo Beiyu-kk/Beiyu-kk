@@ -1,4 +1,7 @@
 ### Hi there 👋
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20B0FF&center=true&vCenter=true&multiline=true&width=435&lines=sometimes+stop%2Csometimes+go">
+</p>
 
 <!--
 **Beiyu-kk/Beiyu-kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 <!-- 个性签名 -->
 
-<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Keep+The+Passion" alt="Typing SVG" /></a></center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&center=true&repeat=false&random=false&width=435&lines=Keep+The+Passion" alt="Typing SVG" /></a>
 
 ## Hi there, I'm Beiyu👋
 
